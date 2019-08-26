@@ -21,6 +21,6 @@ Para a utilização do sistema WEB, será necessario executar o SQL para criaç�
 A classe de conexão do sistema se encontra em fitcard/Controller/Conexão.php, caso seja necessário a mudança de dados
 para se conectar ao servidor;
 
-Na pasta Model se encontra todas as classes de função do sistema.
-Na pasta View se encontra todas as páginas HTML do sistema;
-Na pasta DAO se encontra as funções de comunicação com o servidor;
+-Na pasta Model se encontra todas as classes de função do sistema.
+-Na pasta View se encontra todas as páginas HTML do sistema;
+-Na pasta DAO se encontra as funções de comunicação com o servidor;
