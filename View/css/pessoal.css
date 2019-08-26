@@ -1,0 +1,28 @@
+.TablePesq {
+	width: 100%;
+	text-align: center;
+}
+
+.TablePesq tr:nth-child(2n -1) {
+	background: #CCC;
+}
+
+.TablePesq tr:first-child {
+	background: #000;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold
+}
+
+.TablePesq td {
+	width: 5%;
+}
+
+.Result {
+	display: none;
+	float: none;
+	width: 70%;
+	border: 2px solid #0a80f5;
+	background: #d9fbf7;
+	margin: 20px 15% 10px 15%;
+}
