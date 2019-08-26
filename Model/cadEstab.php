@@ -1,7 +1,7 @@
 <?php
 include ($_SERVER['DOCUMENT_ROOT'] . "/FitCard/DAO/EstabelecimentosDAO.php");
 include ($_SERVER['DOCUMENT_ROOT'] . "/FitCard/Controller/Conexao.php");
-include 'dadosEstab.php';
+include ($_SERVER['DOCUMENT_ROOT'] . "/FitCard/Model/dadosEstab.php)";
 
 if (! isset($_POST['status'])) {
     $status = "";
